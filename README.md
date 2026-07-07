@@ -35,7 +35,3 @@ Python, Pandas, Scikit-learn (KMeans, PCA), Matplotlib, Statsmodels (OLS regress
 ## Data Source
 
 Primary survey data collected via Google Forms (Lenskart Brand Perception Survey), 77 respondents.
-
-## Team
-
-Team 5, MSBA 2025
